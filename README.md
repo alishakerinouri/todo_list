@@ -5,7 +5,7 @@ A Python-based command-line Todo List Application implemented using the principl
 📂 Project Structure
 The project follows the Clean Architecture principles, separating business logic, data handling, and user interface into distinct layers:
 
-<img width="713" alt="Screenshot 2025-01-30 at 13 03 09" src="https://github.com/user-attachments/assets/e60e15cb-36dd-4152-9475-aa1892ac54cd" />
+<img width="711" alt="Screenshot 2025-01-30 at 13 20 42" src="https://github.com/user-attachments/assets/853e0860-d6b2-4658-95cc-fd1981b29f58" />
 
 🚀 Features
 Add Tasks: Add new tasks to the todo list.
@@ -21,26 +21,24 @@ Clean Architecture: Ensures modularity, scalability, and testability.
 💻 Installation
 1. Clone the Repository
 
-<img width="711" alt="Screenshot 2025-01-30 at 13 03 57" src="https://github.com/user-attachments/assets/59b65679-c1e7-4969-b8f0-cff42ca4f0cc" />
+<img width="715" alt="Screenshot 2025-01-30 at 13 21 31" src="https://github.com/user-attachments/assets/47783617-72af-4ea6-86c9-7d32f1f45030" />
 
 2. Set Up a Virtual Environment (Optional but Recommended)
 
-<img width="713" alt="Screenshot 2025-01-30 at 13 04 29" src="https://github.com/user-attachments/assets/8bccc28e-ea65-4aa0-8871-f65eb4d4c99a" />
+<img width="711" alt="Screenshot 2025-01-30 at 13 22 24" src="https://github.com/user-attachments/assets/98645268-5e8f-4970-94c6-2624979ed0e1" />
 
 3. Install Dependencies
 
-<img width="712" alt="Screenshot 2025-01-30 at 13 04 54" src="https://github.com/user-attachments/assets/88054867-d444-4b69-9ed5-18b6bb627283" />
-
+<img width="712" alt="Screenshot 2025-01-30 at 13 23 32" src="https://github.com/user-attachments/assets/16d51683-f281-476e-8bc4-51812285f45b" />
 
 📖 Usage
 Navigate to the project directory and run the main.py file using the following commands:
 
-
-<img width="729" alt="Screenshot 2025-01-30 at 13 06 25" src="https://github.com/user-attachments/assets/59abd2c0-bbb4-464d-b99e-e809fe14c365" />
-
+<img width="726" alt="Screenshot 2025-01-30 at 13 25 10" src="https://github.com/user-attachments/assets/c077e40b-8088-45eb-be03-4242f21339b7" />
 
 🌟 Key Concepts of Clean Architecture
 Separation of Concerns:
+
 The Application Layer (todo_service.py) handles business rules.
 The Infrastructure Layer (file_repository.py) handles data persistence.
 The Presentation Layer (cli.py) handles user interaction.
